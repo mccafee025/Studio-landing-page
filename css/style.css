@@ -1,0 +1,97 @@
+.img { 
+  border-radius: 5px;
+  width:97%;
+  height:650px;
+  padding:1.5rem;
+  margin:auto;
+}
+
+#big {
+  background-color:rgb(243, 241, 241);
+}
+
+.center {
+  color:white;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  font-size: 19px;
+  text-align: center;
+}
+
+.kkk {
+  position :absolute;
+  top:35%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  width:90px;
+}
+
+.mutt {
+    position :absolute;
+    top:85%;
+    left:55%;
+    transform: translate(-50%, -50%);
+    width:90px;
+  }
+
+  
+
+  #source{
+    border-radius: 5px;
+    width:97%;
+    height:450px;
+    padding:1.5rem;
+    margin:auto;
+  }
+
+  #sample {
+    text-align:center;
+  }
+
+#what {
+  position :absolute;
+  top:200%;
+  left:15%;
+  transform: translate(-50%, -50%);
+  width:90px;
+}
+
+#what {
+  position :absolute;
+  top:200%;
+  left:18%;
+  transform: translate(-50%, -50%);
+  width:90px;
+}
+
+#when {
+  position :absolute;
+  top:200%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  width:90px;
+}
+
+#how {
+  position :absolute;
+  top:200%;
+  left:75%;
+  transform: translate(-50%, -50%);
+  width:90px;
+}
+
+#neo {
+  text-align: center;
+  padding:7rem;
+  top: 200%;
+}
+
+.hot{
+  text-align: center;
+}
+
+#one {
+  padding:2px;
+}
