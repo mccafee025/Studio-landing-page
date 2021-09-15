@@ -36,7 +36,7 @@
     width:90px;
   }
 
-  
+
 
 #source{
     border-radius: 5px;
@@ -88,9 +88,6 @@
   margin-left: -7rem;
 }
 
-
-
-
 #neo {
   text-align: center;
   padding:9rem;
@@ -109,6 +106,7 @@
 }
 #one {
   text-align: center;
+  padding:3px;
   }
 #now {
   padding:10px;
@@ -118,7 +116,7 @@
 
 #blue {
   position:absolute;
-  top:350%;
+  top:370%;
   left:50%;
   transform: translate(-50%, -50%);
   font-size: 19px;
@@ -128,7 +126,7 @@
 
 #summer {
   position:absolute;
-  top:330%;
+  top:340%;
   left:50%;
   transform: translate(-50%, -50%);
   font-size: 19px;
@@ -174,5 +172,11 @@
   text-align: center;
   color:white;
   font-size: 17px;
+}
+
+.sumo{
+  opacity: 0.7;
+  outline: 7px solid white;
+  outline-offset: -20px;
 }
 
